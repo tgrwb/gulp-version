@@ -8,10 +8,11 @@ exports.default = function (cb) {
 	cb();
 };
 
-const task_version = require('./lib/version.js');
-exports.ooo = task_version;
-exports.oooa = task_version;
-exports.ooi = task_version;
-exports.ooia = task_version;
-exports.oio = task_version;
-exports.ioo = task_version;
+const version = require('./lib/version.js');
+exports.version = version;
+exports.ooo = version;
+exports.oooa = version;
+exports.ooi = version;
+exports.ooia = version;
+exports.oio = version;
+exports.ioo = version;
