@@ -1,0 +1,26 @@
+{
+  "name": "@tgrwb/gulp-version",
+  "version": "0.0.3",
+  "description": "Easy version update for your project",
+  "main": "lib/version.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "optionalDependencies": {},
+  "scripts": {},
+  "keywords": [],
+  "author": "Vitalij Tigr <tgrwb@tigroweb.ru> (https://tigroweb.ru/)",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgrwb/gulp-version.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tgrwb/gulp-version/issues"
+  },
+  "homepage": "https://github.com/tgrwb/gulp-version#readme"
+}
