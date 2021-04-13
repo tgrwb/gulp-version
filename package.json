@@ -1,6 +1,6 @@
 {
   "name": "@tgrwb/gulp-version",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "Easy version update for your project",
   "main": "lib/version.js",
   "dependencies": {},
